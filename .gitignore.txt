@@ -1,0 +1,8 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+
+# Ignore specific directories
+Library/PackageCache/
